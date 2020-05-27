@@ -33,6 +33,7 @@ static const uint16_t PRODUCT_IDS[] = {
     ID_CORSAIR_VOID_RGB_USB_2,
     ID_CORSAIR_VOID_ELITE_WIRELESS,
     ID_CORSAIR_VOID_RGB_ELITE_WIRELESS,
+    ID_CORSAIR_VIRTUOSO_RGB_WIRELESS,
 };
 
 static int void_send_sidetone(hid_device* device_handle, uint8_t num);
